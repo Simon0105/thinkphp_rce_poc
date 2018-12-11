@@ -9,4 +9,4 @@ python thinkphp_rce_poc.py
 [!] Error: argument -u/--url is required
 ```
 # Screenshot:
-![avatar](https://github.com/heroanswer/thinkphp_rce_poc/blob/master/Screenshot.jpg)
+![avatar](https://github.com/heroanswer/thinkphp_rce_poc/blob/master/screenshot.jpg)
