@@ -7,7 +7,6 @@ pip -r install requirements.txt
 python thinkphp_rce_poc.py 
 [-] Usage: thinkphp_rce_poc.py -u http://www.targeturl.com
 [!] Error: argument -u/--url is required
-
 ```
 # Screenshot:
 ![avatar](https://github.com/heroanswer/EngineCrawler/blob/master/screenshot.png)
